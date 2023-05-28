@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(217, 240, 87);
+}
+h1 {
+    color: rgb(124, 40, 203);
+}
+p{
+    color: rgb(124, 40, 203);
+}
+li{
+    color: rgb(124, 40, 203);
+}
+a{
+    color: rgb(53, 84, 53);
+    text-decoration: none;
+}
+h3{
+    color: green;
+}
